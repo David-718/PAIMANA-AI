@@ -1,0 +1,18 @@
+{
+  "project": "SIH26103 PAIMANA AI Predictive & Prescriptive Monitoring",
+  "integrated_sources": [
+    "SIH26103_Green_Dashboard_Updated-1.zip",
+    "SIH26103_Predictive_Project_Monitoring-4.zip"
+  ],
+  "source_validation": "Both ZIPs opened and passed zip integrity test.",
+  "design_goal": "Combine dashboard/data assets with predictive monitoring, early warnings, analytics, assistant and deployment documentation.",
+  "requirement_map": "docs/REQUIREMENT_COMPLIANCE.md",
+  "version": "3.1.0",
+  "updated_features": [
+    "Prototype login accepts any username/password",
+    "Separate Management, Admin and Project Officer dashboards",
+    "Descriptive project portfolio under Projects navigation",
+    "Dedicated Early Warnings page",
+    "Management Add Project workflow"
+  ]
+}

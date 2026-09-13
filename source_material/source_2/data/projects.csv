@@ -1,0 +1,11 @@
+project_id,project_name,ministry,sector,state,original_cost_crore,revised_cost_crore,planned_duration_months,elapsed_months,physical_progress_pct,financial_progress_pct,delayed_milestones,open_issues,contractual_risk
+P001,National Highway Package A,Road Transport,Roads,Andhra Pradesh,850,940,36,31,61,68,2,3,55
+P002,Metro Expansion Phase II,Housing and Urban Affairs,Urban Transport,Telangana,1250,1430,48,44,70,77,3,5,72
+P003,River Basin Irrigation Project,Water Resources,Irrigation,Odisha,620,650,40,28,69,54,1,2,35
+P004,Freight Rail Corridor Link,Railways,Railways,Maharashtra,2100,2450,60,52,58,71,4,7,84
+P005,Port Modernisation Package,Ports,Ports,Gujarat,980,1030,42,30,73,66,1,1,28
+P006,Power Transmission Corridor,Power,Energy,Karnataka,760,890,36,34,52,63,3,4,67
+P007,Regional Airport Upgrade,Civil Aviation,Airports,Rajasthan,540,585,30,22,78,72,1,2,31
+P008,Industrial Water Supply Scheme,Industries,Water,Chhattisgarh,410,495,28,25,57,61,2,4,59
+P009,National Logistics Hub,Commerce,Logistics,Madhya Pradesh,1180,1320,46,39,63,75,2,4,64
+P010,Renewable Energy Grid Phase I,New and Renewable Energy,Energy,Tamil Nadu,930,960,32,21,81,70,0,1,20

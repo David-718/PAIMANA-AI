@@ -1,0 +1,42 @@
+project_id,project_name,ministry,sector,state,original_cost_crore,revised_cost_crore,expenditure_crore,physical_progress_pct
+705728,Mumbai-Ahmedabad High Speed Rail Project - 508 KM,Ministry of Railways,Railways,Maharashtra-Gujarat,108000,108000,90967,62.16
+705237,Western Dedicated Freight Corridor,Ministry of Railways,Railways,Multiple States,51101,124005,124623,96
+705941,Bangalore Suburban Railway Project,Ministry of Railways,Railways,Karnataka,15767,15767,3278,20.02
+705391,Jiribam-Imphal 110 KM,Ministry of Railways,Railways,Manipur,14323,21886,16932,78
+616699,Multi Tracking of Son Nagar-Andal,Ministry of Railways,Railways,Multiple States,12334,12334,1153,3
+400231,NLC Talabira Thermal Power Project,Ministry of Coal,Coal,Odisha,27213,27213,3574,4.1
+619032,Jayant Expansion 20 to 38 MTPA,Ministry of Coal,Coal,Madhya Pradesh,25560,25560,333,2.1
+400424,Gevra OC 70 MTY,Ministry of Coal,Coal,Chhattisgarh,11816,11816,7825,78.48
+400185,Gopalji Kaniha OCP 10 to 30 M,Ministry of Coal,Coal,Odisha,8416,6108,1778,35.8
+400150,RPR Magadh Expansion OCP,Ministry of Coal,Coal,Jharkhand,6964,6964,2300,39.42
+617416,Revised Jharia Master Plan,Ministry of Coal,Coal,Jharkhand,5940,5940,521,34
+709798,Ethylene Cracker Project at Bina Refinery,Ministry of Petroleum & Natural Gas,Oil & Gas,Madhya Pradesh,43367,43367,6104,33.5
+701289,Capacity Expansion of Panipat Refinery 15 to 25 MMTPA,Ministry of Petroleum & Natural Gas,Oil & Gas,Haryana,34627,36225,28007,94.3
+400120,KG-DWN-98/2 Cluster-II Development Project,Ministry of Petroleum & Natural Gas,Oil & Gas,Offshore,34012,34012,33192,96.9
+604795,CBR 9 MMTPA Project,Ministry of Petroleum & Natural Gas,Oil & Gas,Multiple States,31580,36354,1615,10.2
+701329,Petrochemical and Lube Integration Project at Gujarat Refinery,Ministry of Petroleum & Natural Gas,Oil & Gas,Gujarat,18936,17825,13901,89.6
+298178,Meja Thermal Power Project Stage-II 3x800 MW,Ministry of Power,Electricity Generation,Uttar Pradesh,38358,38358,1003,0.02
+602182,Dibang Multipurpose Project,Ministry of Power,Electricity Generation,Arunachal Pradesh,31876,31876,4921,17.93
+619051,Nabinagar Super Thermal Power Project Stage-II,Ministry of Power,Electricity Generation,Bihar,29948,29948,3422,15
+619341,Telangana Super Thermal Power Project Stage-II,Ministry of Power,Electricity Generation,Telangana,29345,29345,733,0.97
+619025,Rajasthan Part I Power Transmission Limited,Ministry of Power,Transmission & Distribution,Rajasthan,25000,25000,735,10
+701530,Ken-Betwa Linking Development Project,Water Resources,Water Resources,Madhya Pradesh-Uttar Pradesh,21030,21030,8531,0
+701372,Sardar Sarovar Project,Water Resources,Water Resources,Gujarat,20718,33413,31969,93.7
+701415,Polavaram Irrigation Project,Water Resources,Water Resources,Andhra Pradesh,10151,55549,27962,86.15
+701405,J. Chokka Rao Devadula Lift Irrigation Scheme,Water Resources,Water Resources,Telangana,8201,14730,4841,87.7
+701386,Gosikhurd Project,Water Resources,Water Resources,Maharashtra,7196,12770,14439,72.65
+706775,BharatNet,Department of Telecommunications,Telecommunication,Pan India,61109,61109,48810,99.98
+701593,4G Services by BSNL,Department of Telecommunications,Telecommunication,Pan India,28466,28466,9165,98.56
+400013,Saturation 4G Mobile Coverage through USOF,Department of Telecommunications,Telecommunication,Pan India,26316,26316,8723,87.7
+709857,4G Mobile Network Phase IX.2,Department of Telecommunications,Telecommunication,Pan India,24545,24545,24188,98.56
+547243,BharatNet Phase-II,Department of Telecommunications,Telecommunication,Pan India,22175,22175,20692,93.33
+400188,Redevelopment of Seven GPRA Colonies in Delhi,Ministry of Housing & Urban Affairs,Real Estate,Delhi,32850,32841,14370,46.7
+617883,Redevelopment of Residential Colonies at AIIMS New Delhi,Ministry of Housing & Urban Affairs,Real Estate,Delhi,4441,4485,444,57
+701668,Development of Palakkad Node under CBIC,Ministry of Commerce & Industry,Industrial Infrastructure,Kerala,3805,3805,58,5.3
+617727,Orvakal Industrial Area,Ministry of Commerce & Industry,Industrial Infrastructure,Andhra Pradesh,2786,2786,356,16.22
+601812,Development of Zaheerabad Node under Hyderabad-Nagpur Industrial Corridor,Ministry of Commerce & Industry,Industrial Infrastructure,Telangana,2360,2360,43,4.87
+618412,Z-Morh to Zojila Tunnel and Connecting Road,Ministry of Road Transport & Highways,Roads & Highways,Jammu & Kashmir,6809,6809,3575,68.8
+618738,6L Bridge and Approaches across River Ganga as part of Patna Ring Road,Ministry of Road Transport & Highways,Roads & Highways,Bihar,6292,6292,734,22.05
+618934,Guwahati Ring Road,Ministry of Road Transport & Highways,Roads & Highways,Assam,5729,5729,328,0
+618373,4-Lane Brahmaputra Bridge Dhubri-Phulbari,Ministry of Road Transport & Highways,Roads & Highways,Assam-Meghalaya,4997,4997,3081,77.14
+618599,6L Ramanattukara Junction to Valanchery Bypass NH-66,Ministry of Road Transport & Highways,Roads & Highways,Kerala,4919,4919,3765,100
