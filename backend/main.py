@@ -1,4 +1,6 @@
 from fastapi import FastAPI, HTTPException
+from fastapi.staticfiles import StaticFiles
+from fast api.responses import FileResponse
 from fastapi.middleware.cors import CORSMiddleware
 from pathlib import Path
 from pydantic import BaseModel, Field
@@ -6,6 +8,7 @@ import csv, math, statistics
 
 BASE = Path(__file__).resolve().parent.parent
 DATA = BASE / "data" / "projects.csv"
+FRONTEND_DIST = BASE / "fronten" / "dist"
 
 app = FastAPI(
     title="PAIMANA AI Predictive Monitoring API",
@@ -126,7 +129,7 @@ def portfolio():
 
 @app.get("/")
 def root():
-    return {"project":"SIH26103","service":"PAIMANA AI Predictive Monitoring","status":"running"}
+    return FileResponse(FRONTEND_DIST / "index.html")
 
 @app.post("/api/login")
 def login(data: Login):
@@ -221,3 +224,5 @@ def assistant(q: str=""):
         p=max(ps,key=lambda p:p["risk_score"])
         return {"answer":f"First intervention candidate: {p['project_name']}. Recommended actions: " + " ".join(p["recommendations"])}
     return {"answer":"I can answer: Which projects are high risk? What is the portfolio cost? Which projects face delays? Which sectors need attention? What actions should officers take?"}
+    if FRONTEND_DIST.exists():
+        app.mount("/assets",StaticFiles(directory=FRONTEND_DIST / "assets"),name="assets")
