@@ -2,7 +2,7 @@ import React,{useEffect,useMemo,useState} from "react";
 import {createRoot} from "react-dom/client";
 import "./style.css";
 
-const API="http://paimana-ai-backend-uy1z.onrender.com";
+const API="";
 const money=n=>new Intl.NumberFormat("en-IN",{maximumFractionDigits:0}).format(Number(n)||0);
 const pct=n=>`${Number(n||0).toFixed(1)}%`;
 
